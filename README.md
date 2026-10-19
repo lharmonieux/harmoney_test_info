@@ -4,7 +4,7 @@ Harmoney est une application de gestion de finances. On peut suivre ses dépense
 
 ## Identifiants de connexion pour test
 
-Suivre ses comptes et mouvements financiers demandent d'avoir une sauvegarde de ses derniers. Pour pouvoir accéder aux fonctionnalités de l'application, vous pouvez utiliser ces identifiants
+Suivre ses comptes et mouvements financiers demandent d'avoir une sauvegarde de ces derniers. Pour pouvoir accéder aux fonctionnalités de l'application, vous pouvez utiliser ces identifiants
 
 ```
 mail: johndoe@example.com
